@@ -1,27 +1,21 @@
 package com.iutbm.applicationiut.facebook;
 
+import java.io.Serializable;
 import java.util.Date;
 
 /**
  * Created by P-E on 17/12/13.
  */
-public class Facebook {
-    private String titre, description;
+public class Facebook implements Serializable {
+    private String description, link, image;
     private Date date;
 
-    public Facebook(String titre, String description, Date date) {
+    public Facebook(String description, Date date, String link, String image) {
         super();
-        this.titre = titre;
         this.description = description;
         this.date = date;
-    }
-
-    public String getTitre() {
-        return titre;
-    }
-
-    public void setTitre(String titre) {
-        this.titre = titre;
+        this.link = link;
+        this.image = image;
     }
 
     public String getDescription() {
@@ -40,11 +34,29 @@ public class Facebook {
         this.date = date;
     }
 
-    @Override
-    public String toString() {
-        return "Facebook [titre=" + titre + "\n description=" + description
-                + ", date=" + date + "]";
+    public String getLink() {
+        return link;
     }
 
+    public void setLink(String link) {
+        this.link = link;
+    }
 
+    public String getImage() {
+        return image;
+    }
+
+    public void setImage(String image) {
+        this.image = image;
+    }
+
+    @Override
+    public String toString() {
+        return "Facebook{" +
+                "description='" + description + '\'' +
+                ", link='" + link + '\'' +
+                ", image='" + image + '\'' +
+                ", date=" + date +
+                '}';
+    }
 }

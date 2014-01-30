@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="robodemo-lib-1.0.0">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/ApplicationIUT/libs/robodemo-lib-1.0.0.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
