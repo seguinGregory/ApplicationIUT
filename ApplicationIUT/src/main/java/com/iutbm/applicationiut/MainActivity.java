@@ -98,7 +98,7 @@ public class MainActivity extends Activity implements NavigationDrawerFragment.N
 
         switch (position) {
             case section_accueil:
-                ft.replace(R.id.container, new AccueilFragment()).addToBackStack("retour1").commit();
+                ft.replace(R.id.container, new AccueilFragment()).commit();
                 break;
             case section_actualites:
                 ft.replace(R.id.container, new ActualiteFragment()).addToBackStack("retour2").commit();
