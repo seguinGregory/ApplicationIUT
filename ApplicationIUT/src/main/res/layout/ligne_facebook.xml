@@ -5,7 +5,7 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:padding="10dp"
-    android:background="@drawable/footer_bg">
+    android:background="@drawable/footer_bg_facebook">
 
     <TextView
         android:layout_width="fill_parent"
@@ -16,6 +16,7 @@
         android:padding="10dp"
         android:singleLine="false"
         android:autoLink="all"
+        android:textColor="@android:color/white"
         android:textColorLink="#971354" />
 
     <TextView
@@ -26,11 +27,12 @@
         android:id="@+id/textViewLink"
         android:padding="10dp"
         android:singleLine="false"
+        android:textColor="@android:color/white"
         android:textColorLink="#971354" />
 
     <ImageView
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:id="@+id/imageViewFacebook" />
 
     <TextView

@@ -53,7 +53,7 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_margin="30dp"
-            android:text="Plan"
+            android:text="Plan d'accès"
             android:id="@+id/buttonPLAN"
             android:singleLine="false"
             android:textColor="@android:color/white"

@@ -6,6 +6,12 @@
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="$USER_HOME$/Documents/gradle-1.9" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ApplicationIUT" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>

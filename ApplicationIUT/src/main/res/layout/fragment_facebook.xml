@@ -10,6 +10,10 @@
     <com.iutbm.applicationiut.PullToRefreshListView
         android:layout_height="fill_parent"
         android:layout_width="fill_parent"
-        android:id="@+id/listViewBooks" />
+        android:id="@+id/listViewBooks"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:dividerHeight="12dp"
+        android:divider="#F1E7C4" />
 
 </LinearLayout>
