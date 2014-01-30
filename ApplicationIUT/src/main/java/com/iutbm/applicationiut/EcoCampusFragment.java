@@ -1,11 +1,17 @@
 package com.iutbm.applicationiut;
 
 import android.app.Fragment;
+import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.WebView;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.TextView;
+import android.widget.Toast;
 
 /**
  * Created by Greg on 10/11/13.
@@ -15,6 +21,7 @@ public class EcoCampusFragment extends Fragment {
     private WebView part2;
     private WebView part3;
     private WebView part4;
+
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
@@ -26,6 +33,7 @@ public class EcoCampusFragment extends Fragment {
         part2 = (WebView) view.findViewById(R.id.webViewEcoPart2);
         part3 = (WebView) view.findViewById(R.id.webViewEcoPart3);
         part4 = (WebView) view.findViewById(R.id.webViewEcoPart4);
+
 
         String strPart1 = "<html><body bgcolor=\"F1E7C4\">" +
                 "<p align=\"justify\">" +
@@ -73,6 +81,9 @@ public class EcoCampusFragment extends Fragment {
         part3.loadData(strPart3, "text/html; charset=UTF-8", null);
         part4.loadData(strPart4, "text/html; charset=UTF-8", null);
 
+
         return view;
     }
+
+
 }

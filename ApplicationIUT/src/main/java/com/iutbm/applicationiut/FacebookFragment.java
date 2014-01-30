@@ -171,6 +171,7 @@ public class FacebookFragment extends Fragment {
             bookListView.onRefreshComplete();
 
             try {
+
                 FileOutputStream fos = new FileOutputStream(getActivity().getFilesDir().getPath() + "/facebook.data");
                 ObjectOutputStream oos = new ObjectOutputStream(fos);
 
