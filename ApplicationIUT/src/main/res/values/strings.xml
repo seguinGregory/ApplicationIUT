@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ptr_pull_to_refresh">Tirer pour actualiser</string>
+    <string name="ptr_release_to_refresh">Lacher pour actualiser</string>
+    <string name="ptr_refreshing">Actualisation ...</string>
+    <string name="ptr_last_updated">Actualisée le : %1$s</string>
+
+    <string name="app_name">IUT BM</string>
+
+    <string-array name="nav_drawer_items">
+        <item>Accueil</item>
+        <item>Actualités</item>
+        <item>Formations</item>
+        <item>Eco-Campus</item>
+        <item>Agenda</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>IUT</item>
+        <item>UFC</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_accueil</item>
+        <item>@drawable/ic_news</item>
+        <item>@drawable/ic_formations</item>
+        <item>@drawable/ic_eco</item>
+        <item>@drawable/ic_agenda</item>
+        <item>@drawable/ic_facebook</item>
+        <item>@drawable/ic_twitter</item>
+        <item>@drawable/ic_iut</item>
+        <item>@drawable/ic_universite</item>
+    </array>
+
+    <string-array name="ASS_DUT">
+        <item>
+            Animation Sociale et Socio-culturelle (ASS)
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">]]>Directeur des études | John Pol Pierrel
+            <![CDATA[<br/>]]>
+            Formation initiale, formation continue<![CDATA[</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">]]>Le DUT Carrières Sociales forme des travailleurs
+            sociaux ayant une connaissance des publics (famille, intergénérations, jeunes, exclus),
+            et des dispositifs pouvant les guider dans leurs actions.<![CDATA[</p>]]>
+            <![CDATA[<p align=\"justify\">]]>La formation vise également au travers de la
+            sociologie, la psychologie, les sciences de l\'éducation, l\'économie, à renforcer leurs
+            capacités d\'analyse, elles-mêmes facilitées par la maîtrise d\'outils, tels que la
+            gestion, l\'informatique, et la méthodologie de projet.<![CDATA[</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">]]>Admission sur dossier :
+            <![CDATA[<ul><li>]]>baccalauréats L, S, ES, STT, SMS et STI,<![CDATA[</li>]]>
+            <![CDATA[<li>]]>Diplômes d\'Accès aux Études Universitaires (DAEU A et B),
+            <![CDATA[</li>]]>
+            <![CDATA[<li>]]>possibilité de Validation des Acquis pour les non-bacheliers,
+            <![CDATA[</li>]]>
+            <![CDATA[<li>]]>formation continue.<![CDATA[</li></ul></p>]]>
+
+            <![CDATA[<p align=\"justify\">]]>Admission définitive : tests écrits de culture
+            générale, professionnelle et de motivation.<![CDATA[</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">]]>Technicien d\'encadrement dans les structures
+            d\'animation sociale et socio-culturelle et organismes prestataires de service de
+            proximité).<![CDATA[</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">]]>Licences pro :
+            <![CDATA[<ul><li>]]>Intervention Sociale, spécialités :<![CDATA[</li>]]>
+            <![CDATA[<ul><li>]]>Animation Sociale et Socioculturelle<![CDATA[</li>]]>
+            <![CDATA[<li>]]>Famille, Vieillissement et Problématiques Intergénérationnelles
+            <![CDATA[</li></ul>]]>
+            <![CDATA[<li>]]>Activités sportives<![CDATA[</li>]]>
+            <![CDATA[<li>]]>Management des organisations<![CDATA[</li></ul></p>]]>
+
+            <![CDATA[<p align=\"justify\">]]>Licences :
+            <![CDATA[<ul><li>]]>Sciences Humaines<![CDATA[</li>]]>
+            <![CDATA[<li>]]>Administration Economique et Sociale<![CDATA[</li></ul></p>]]>
+
+            <![CDATA[<p align=\"justify\">]]>Autres :
+            <![CDATA[<ul><li>]]>Les diplômes professionnels : DEFA, DSTS, DEDPAD
+            <![CDATA[</li></ul></p>]]>
+
+            <![CDATA[<p align=\"justify\">]]>Après la licence :
+            <![CDATA[<ul><li>]]>Master, CAPLP2 sciences médico-sociales<![CDATA[</li></ul></p>]]>
+        </item>
+    </string-array>
+
+    <string-array name="GU_DUT">
+        <item>
+            Gestion Urbaine (GU)
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Directeur des études | John Pol Pierrel<br/>
+            Formation initiale, formation continue</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Le DUT Carrières Sociales forme des travailleurs sociaux ayant une connaissance des publics (famille, intergénérations, jeunes, exclus), et des dispositifs pouvant les guider dans leurs actions.</p>
+            <p align=\"justify\">La formation vise également au travers de la sociologie, la psychologie, les sciences de l\'éducation, l\'économie, à renforcer leurs capacités d\'analyse, elles-mêmes facilitées par la maîtrise d\'outils, tels que la gestion, l\'informatique, et la méthodologie de projet.</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Admission sur dossier :
+            <ul><li>Baccalauréats L, S, ES, STT, SMS et STI,</li>
+            <li>Diplômes d\'Accès aux Études Universitaires (DAEU A et B),</li>
+            <li>Possibilité de Validation des Acquis pour les non-bacheliers,</li>
+            <li>Formation continue.</li></ul></p>
+
+            <palign=\"justify\">Admission définitive : tests écrits de culture générale, professionnelle et de motivation.</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Assistant responsable projet, responsable d\'insertion, agent de médiation, agent de développement.</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Licences pro :
+            <ul><li>Intervention Sociale, spécialités :</li>
+            <ul><li>Animation Sociale et Socioculturelle</li>
+            <li>Famille, Vieillissement et Problématiques Intergénérationnelles</li></ul>
+            <li>Activités sportives</li>
+            <li>Management des organisations</li></ul></p>
+
+            <p align=\"justify\">Licences :
+            <ul><li>Sciences Humaines</li>
+            <li>Administration Economique et Sociale</li></ul></p>
+
+            <p align=\"justify\">Autres :
+            <ul><li>Les diplômes professionnels : DEFA, DSTS, DEDPAD</li></ul></p>
+
+            <p align=\"justify\">Après la licence :
+            <ul><li>Master, CAPLP2 sciences médico-sociales</li></ul></p>]]>
+        </item>
+    </string-array>
+
+    <string-array name="SAP_DUT">
+        <item>
+            Services à la Personne (SaP)
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Directeur des études | John Pol Pierrel<br/>
+            Formation initiale, formation continue</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Le DUT Carrières Sociales forme des travailleurs sociaux ayant une connaissance des publics (famille, intergénérations, jeunes, exclus), et des dispositifs pouvant les guider dans leurs actions.</p>
+            <p align=\"justify\">La formation vise également au travers de la sociologie, la psychologie, les sciences de l\'éducation, l\'économie, à renforcer leurs capacités d\'analyse, elles-mêmes facilitées par la maîtrise d\'outils, tels que la gestion, l\'informatique, et la méthodologie de projet.</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Admission sur dossier :
+            <ul><li>Baccalauréats L, S, ES, STT, SMS et STI,</li>
+            <li>Diplômes d\'Accès aux Études Universitaires (DAEU A et B),</li>
+            <li>Possibilité de Validation des Acquis pour les non-bacheliers,</li>
+            <li>Formation continue.</li></ul></p>
+
+            <p align=\"justify\">Admission définitive : tests écrits de culture générale, professionnelle et de motivation.</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Etre coordonnateur de :
+            <ul><li>Services à la famille (garde d\'enfants, soutien scolaire),</li>
+            <li>Services de santé à domicile,</li>
+            <li>Services liés à la qualité de vie à domicile (tâches ménagères, petites réparations, portage de repas),</li>
+            <li>Services liés au logement ou au cadre de vie (jardinage, gardiennage),</li>
+            <li>Services d\'intermédiation (conseil juridique, assistance aux démarches administratives)</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Licences pro :
+            <ul><li>Intervention Sociale, spécialités :</li>
+            <ul><li>Animation Sociale et Socioculturelle</li>
+            <li>Famille, Vieillissement et Problématiques Intergénérationnelles</li></ul>
+            <li>Activités sportives</li>
+            <li>Management des organisations</li></ul></p>
+
+            <p align=\"justify\">Licences :
+            <ul><li>Sciences Humaines</li>
+            <li>Administration Economique et Sociale</li></ul></p>
+
+            <p align=\"justify\">Autres :
+            <ul><li>Les diplômes professionnels : DEFA, DSTS, DEDPAD</li></ul></p>
+
+            <p align=\"justify\">Après la licence :
+            <ul><li>Master, CAPLP2 sciences médico-sociales</li></ul></p>]]>
+        </item>
+    </string-array>
+
+    <string-array name="G2CD_DUT">
+        <item>
+            Génie Civil - Construction Durable (G2CD)
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Formation initiale, formation continue et apprentissage (2e année)</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Le DUT Génie Civil vise à la formation de collaborateurs polyvalents participant à la responsabilité de l\'étude et de l\'exécution des travaux de génie civil :
+            <ul><li>Dans un bureau d\'études, ils secondent les ingénieurs,</li>
+            <li>Sur le chantier, ils sont en charge de l\'exécution, du suivi, de la gestion des opérations et cela a des degrés différents suivant le type de chantier,</li>
+            <li>Dans les laboratoires d\'essais ou de recherche, ils sont chargés de l\'organisation, de l\'exécution et du dépouillement des programmes d\'expériences.</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Admission sur dossier :
+            <ul><li>Baccalauréats série scientifiques ou technologiques</li>
+            <li>Diplôme d\'Accès aux Etudes Universitaires B option scientifique</li>
+            <li>Intégration en 2e année pour certaines formations scientifiques post-bac</li>
+            <li>Salariés et demandeurs d\'emploi (formation continue et VAE)</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Chef de chantier, conducteur de travaux, technicien supérieur en bureau d\'étude, technicien supérieur en bureau des Méthodes, économiste de la construction, technicien de laboratoire, collaborateur de Maître d\'œuvre, assistance Maîtrise d\'Ouvrage, gestionnaire d\'un parc immobilier, responsable d\'un service technique.</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Ecoles d\'ingénieur
+            <ul><li>ESTP, INSA, POLYTECH.</li></ul></p>
+
+            <p align=\"justify\">Licence professionnelle
+            <ul><li>Conduite de travaux et Performance Energétique des Bâtiments (Belfort)</li>
+            <li>De très nombreuses licences, éventuellement par apprentissage, vous sont proposées dans les fonctions d\'ingénierie, d\'exécution des travaux, de technico-commercial.</li></ul></p>
+
+            <p align=\"justify\">Licence
+            <ul><li>Sciences et techniques</li></ul></p>
+
+            <p align=\"justify\">Autres
+            <ul><li>Master en Génie Civil.</li></ul></p>]]>
+        </item>
+    </string-array>
+
+    <string-array name="GEII_DUT">
+        <item>
+            Génie Electrique et Informatique Industrielle (GEII)
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Formation initiale et continue | Avenue Maréchal Juin à Belfort</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Polyvalent par sa formation en électronique, électrotechnique, informatique industrielle, réseaux locaux industriels et automatismes, ce DUT mène aux emplois dans les industries électriques et électroniques, les télécommunications, les appareillages, l\'énergie, les industries de transformation, les transports, l\'aéronautique, la santé ou les énergies nouvelles et renouvelables.<br/>
+            Deux spécialités (au semestre 4) :
+            <ul><li>Signal et transmissions</li>
+            <li>Énergies et systèmes</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Admission sur dossier :
+            <ul><li>Baccalauréat S, STI (électronique, électrotechnique), STL (physique de laboratoire)</li>
+            <li>Diplôme d\'Accès aux Etudes Universitaires (DAEU B scientifique)</li>
+            <li>Baccalauréat professionnel du domaine (+ entretien)</li>
+            <li>Salariés et demandeurs d\'emploi (formation continue et VAE)</li>
+            <li>Admission parallèle à partir du semestre 2 (BTS, CPGE)</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Industries électriques et électroniques, appareillages et instrumentation, production d\'énergie, automobile et transports, aéronautique, biens de consommation :
+            <ul><li>Etudes : analyse d\'un cahier des charges, conception de dispositifs et systèmes électroniques.</li>
+            <li>Essais-contrôles : conception et réalisation de prototypes, définition des procédures de contrôle.</li>
+            <li>Encadrement de la fabrication : organisation du travail des équipes et suivi de la production (ex. automatismes et robotique) installation et maintenance de systèmes complexes (ex. électronique médicale) cadre technico-commercial pour la vente de systèmes électroniques, informatiques ou d\'instrumentation très complexes, exploitation et maintenance de sites isolés, dans le domaine des énergies nouvelles.</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Licence professionnelle
+            <ul><li>Véhicules : électronique et gestion des automatismes (VEGA)</li>
+            <li>Gestion de projets d\'innovation (GPI)</li></ul></p>
+
+            <p align=\"justify\">Licence
+            <ul><li>Électrotechnique, électronique et automatique (E.E.A)</li></ul></p>
+
+            <p align=\"justify\">École d\'ingénieurs
+            <ul><li>Instrumentation et techniques bio-médicales à l\'Institut Supérieur d\'Ingénieurs de Franche-Comté (ISIFC)</li></ul></p>]]>
+        </item>
+    </string-array>
+
+    <string-array name="GTE_DUT">
+        <item>
+            Génie Thermique et Energie (GTE)
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Formation initiale, formation continue</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Le GTE concerne l\'ensemble des activités relatives à la production, au transfert, à l\'utilisation, à la gestion et l\'optimisation de l\'énergie thermique dans les industries, les transports et le bâtiment, dans leurs aspects techniques et économiques ainsi que dans leur impact sur l\'environnement et le développement durable.</p>
+            <p align=\"justify\">Il forme des techniciens supérieurs capables de s\'adapter aux technologies nouvelles et maîtrisant la compréhension des phénomènes énergétiques.</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Admission sur dossier :
+            <ul><li>Baccalauréat séries scientifiques ou technologiques,</li>
+            <li>Diplôme d\'Accès aux Études Universitaires B option scientifique,</li>
+            <li>Salariés ou demandeurs d\'emploi relevant de la formation continue,</li>
+            <li>Possibilité de VAE pour les non-titulaires du baccalauréat.</li></ul></p>
+            <p align=\"justify\">Possibilité d\'intégration directe en 3e semestre pour certaines formations scientifiques post-bac.</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\"><ul><li>Environnement, énergies renouvelables (solaire, éolienne, géothermique…),</li>
+            <li>Ventilation, chauffage, froid, climatisation (industrie, bâtiment),</li>
+            <li>Moteurs thermiques,</li>
+            <li>Aéronautique et aérospatiale,</li>
+            <li>Machines frigorifiques, pompes à chaleur,</li>
+            <li>Laboratoires de recherche et stations d\'essai.</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Licence professionnelle
+            <ul><li>Energie et Génie Climatique, spécialité Énergies Renouvelables</li>
+            <li>Gestion de la Production Industrielle, spécialités :</li>
+            <ul><li>Gestion de Projets d\'Innovation</li>
+            <li>Logistique Industrielle</li>
+            <li>Gestion de Production Intégrée</li></ul></ul></p>
+
+            <p>Autres
+            <ul><li>Diplôme Universitaire Communication Internationale Spécialisée</li></ul></p>]]>
+        </item>
+    </string-array>
+
+    <string-array name="INFO_DUT">
+        <item>
+            Informatique (Info)
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Formation initiale et continue | Site Engel Gros à Belfort</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Ce diplôme a pour objectif de former des spécialistes de l\'informatique dont le métier implique une activité de conception, de réalisation et de mise en œuvre d\'outils informatiques, mis ensuite à la disposition d\'utilisateurs.</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Admission sur dossier :
+            <ul><li>Baccalauréat S, ES (option mathématiques), STT (option informatique et gestion), STI</li>
+            <li>Diplôme d\'accès aux études universitaires (DAEU B option scientifique)</li>
+            <li>Salariés et demandeurs d\'emploi (formation continue et VAE)</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Grandes sociétés (Peugeot, SNCF…), sociétés de services informatiques, PME-PMI, collectivités locales. Les besoins en informaticiens de niveau bac + 2 sont importants. Ils remplissent les fonctions d\'adjoint aux ingénieurs.</p>
+            <p align=\"justify\">Il peuvent être responsables :
+            <ul><li>De la réalisation et application différée par le cahier des charges ou la modification des logiciels existants</li>
+            <li>De la conduite de l\'exploitation d\'un centre informatique</li>
+            <li>De la gestion du réseau informatique</li>
+            <li>De l\'assistance aux utilisateurs pour la mise en exploitation de nouveaux produits</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Licence professionnelle
+            <ul><li>Systèmes informatiques et logiciels, spécialités</li>
+            <ul><li>Technologies de Projets web et mobiles (Belfort)</li>
+            <li>Conception et développement orientés objet d\'applications multitiers (Besançon)</li></ul></ul></p>
+
+            <p align=\"justify\">Licence
+            <ul><li>Informatique en présentiel (Besançon) ou en télé-enseignement</li></ul></p>
+
+            <p align=\"justify\">Ecoles d\'ingénieurs</p>]]>
+        </item>
+    </string-array>
+
+    <string-array name="TDC_DUT">
+        <item>
+            Techniques de Commercialisation (Tech. de Co.)
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Formation initiale et continue | Site Belfort Centre</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Le DUT Techniques de Commercialisation vise à former des techniciens supérieurs, généralistes du commerce, appelés à travailler soit directement à la vente, soit dans les services commerciaux (marketing, communication, logistique) dans les secteurs très divers : banques, assurances, entreprises de distribution, sociétés de conseil et communication.</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Admission sur dossier :
+            <ul><li>Baccalauréats général et technologique,</li>
+            <li>Diplôme d\'Accès aux Etudes Universitaires A option littéraire,</li>
+            <li>Formation continue et VAE.</li></ul></p>
+
+            <p align=\"justify\">Recrutement en 2 temps :
+            <ul><li>Admissibilité sur dossier,</li>
+            <li>Admission définitive après entretien de motivation.</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Les diplômés s\'insèrent sans difficulté dans tout type d\'entreprise grâce à leur formation de collaborateurs commerciaux polyvalents capables d\'assurer les fonctions de vente, d\'achat, de distribution. Les secteurs d\'activités sont très variés : banques et assurances (conseillers clientèle), grande distribution (chef de rayons), industrie (export, marketing, achats, administration des ventes).</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Licence professionnelle
+            <ul><li>Commerce, spécialités :</li>
+            <ul><li>Technologies de l\'Information et de la Communication Appliquées au Marketing et au Commerce,</li>
+            <li>Achats</li>
+            <li>Attaché au Développement International des Organisations</li>
+            <li>Marketing et communication des Organisations du Sport, de l\'Événementiel et des Loisirs</li></ul>
+            <li>Management des Organisations, spécialités :</li>
+            <ul><li>Conduite de Projets Internationaux de Co-développement</li>
+            <li>Assistant Marketing et Communication dans les PME</li></ul></p>
+
+            <p align=\"justify\">Licence
+            <ul><li>Licence LEA - sous réserve d\'une 2e langue vivante</li>
+            <li>Licence AES</li></ul></p>
+
+            <p align=\"justify\">Autres
+            <ul><li>Ecoles Supérieures de Commerce</li></ul></p>]]>
+        </item>
+    </string-array>
+
+    <string-array name="MP_DUT">
+        <item>
+            Mesures Physiques (MP)
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Formation initiale et continue | Site des Portes du Jura à Montbéliard</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Le DUT forme des spécialistes :
+            <ul><li>Des techniques de mesures tant physiques que physico-chimiques (électronique, thermique, vibrations, électrochimie),</li>
+            <li>Des méthodes d\'analyses et contrôle des matériaux (cristallographie, rayons X et gamma, spectrographie, chromatographie…).</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Admission sur dossier :
+            <ul><li>Baccalauréat général et technologique, notamment S, STI et STL,</li>
+            <li>Diplôme d\'Accès aux Études Universitaires (DAEU B option scientifique),</li>
+            <li>Salariés et demandeurs d\'emploi relavant de la formation continue.</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Emplois très variés dans de nombreux secteurs : automobile, aéronautique, mécanique, microtechnique, informatique, chimie et industrie pharmaceutique, environnement, agro-alimentaire</p>
+            <p align=\"justify\">Dans les entreprises, les diplômés interviennent le plus souvent au sein des laboratoires, des services de recherche et développement, qualité, métrologie</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Licence professionnelle
+            <ul><li>Santé, spécialités</li>
+            <ul><li>Dosimétrie et Radioprotection Médicales</li>
+            <li>Capteurs, Instrumentation, Métrologie</li></ul>
+            <li>Électricité et électronique, spécialité Véhicules : électronique et Gestion des Automatismes</li></ul></p>
+
+            <p align=\"justify\">Licence
+            <ul><li>Physique-chimie, parcours Physique</li>
+            <li>Électrotechnique, électronique et Automatique</li></ul></p>
+
+            <p align=\"justify\">Autres
+            <ul><li>Instrumentation et Techniques Biomédicales (ISIFC)</li>
+            <li>Écoles d\'ingénieurs</li></ul></p>]]>
+        </item>
+    </string-array>
+
+    <string-array name="ASS_LP">
+        <item>
+            Animation Sociale et Socio-culturelle (ASS)
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Responsables pédagogiques | Igor Abgossou, Guillaume Jehannin<br/>
+            Formation initiale, formation continue, contrat de professionnalisation</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Cette licence professionnelle en alternance forme des professionnels de l\'intervention sociale.</p>
+
+            <p align=\"justify\">Les compétences visées :
+            <ul><li>Construire des relations de qualité avec différents publics,</li>
+            <li>Produire un diagnostic sur les besoins d\'un public au niveau d\'un territoire,</li>
+            <li>Inscrire sa réflexion et son action dans une connaissance actualisée des problématiques de l\'intervention sociale,</li>
+            <li>Concevoir un projet d\'animation dans le cadre des objectifs de l\'organisation,</li>
+            <li>Mettre en oeuvre un projet et le coordonner dans le cadre d\'un partenariat,</li>
+            <li>Développer une démarche et des outils de valorisation de l\'action,</li>
+            <li>Evaluer son action, la discuter et en proposer des prolongements,</li>
+            <li>Adoper une démarche réflexive favorisant la professionnalisation.</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\"><ul><li>Titulaires d\'un diplôme de niveau III (DUT, BTS) ayant une expérience dans le domaine de l\'intervention sociale et un projet de formation basé sur l\'alternance,</li>
+            <li>L2 ou supérieur en sciences humaines et sociales,</li>
+            <li>Salariés ou demandeurs d\'emploi relevant de la formation continue pour lesquels la validation des acquis est possible.</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">La licence prépare aux fonctions de coordinateur de projet d\'intervention sociale dans un cadre parteneurial. Les emplois le plus souvent occupés par les étudiants sont les suivants :
+            <ul><li>Animateur-coordinateur secteur enfance/jeunesse (associations, MJC, maisons de quartier, fédération départementale)</li>
+            <li>Coordonnateur de dispositifs (programmes de réussite éducative, dispositifs de prévention)</li>
+            <li>Responsable Point Information Jeunesse, chargé d\'accompagnement socio-professionnel</li></ul></p>]]>
+        </item>
+    </string-array>
+
+    <string-array name="CTPEB_LP">
+        <item>
+            Conduite de Travaux et Performance Energétique des Bâtiments (CTPEB)
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Resp. pédagogique de la licence pro. : Romain Richard</p>
+            <p align=\"justify\">Formation continue et apprentissage</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">La licence professionnelle « Conducteur de Travaux en Maisons individuelles - CTMI » a été ouverte en septembre 2008 et reconduite pour deux années jusqu\'en 2012. Cette licence professionnelle, dès sa création, a bénéficié d\'une étroite collaboration et d\'un constant soutien de la part des milieux professionnels du Bâtiment.</p>
+            <p align=\"justify\">Compte tenu des modifications constatées ou prévisibles de la réglementation thermique à l\'issue du « Grenelle de l\'Environnement » (RT 2005 et BBC, RT 2012 et RT 2020) et des évolutions des systèmes constructifs, il a été jugé opportun de faire évoluer la licence professionnelle en élargissant ses compétences initiales. Cette restructuration permet d\'améliorer son taux d\'insertion professionnelle en élargissant son champ de compétences.</p>
+            <p align=\"justify\">Cette  nouvelle spécialité "Conduite de Travaux et Performance Energétique des bâtiments" a pour objectif de former des cadres moyens ou des agents de maîtrise destinés à pourvoir des postes d\'encadrement ou de direction de chantier dans les entreprises de construction au sens large du terme.</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Accessible en alternance (contrats d\'apprentissage ou de professionnalisation) pour :
+            <ul><li>Les étudiants titulaires d\'un DEUG, DUT, BTS ayant un rapport avec l\'acte de construire ou l\'aménagement du territoire</li>
+            <li>L2 science et technologie</li>
+            <li>Les étudiants d\'autres disciplines (admission sur dosssier et entretien)</li>
+            <li>Les salariés des entreprises de la branche professionnelle du BTP en formation continue (CIF) ou VAE</li>
+            <li>Les demandeurs d\'emplois satisfaisants aux pré-requis.</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\"><ul><li>Maîtrise d\'ouvrage : Chargé d\'opérations</li>
+            <li>Collectivités territoriales : Chargé de mission, Conseiller énergie</li>
+            <li>Bureau d\'étude : Assistant d\'ingénieur en efficacité énergétique/structure</li>
+            <li>Bureau de contrôle : Chargé d\'études énergétiques</li>
+            <li>Maîtrise d\'œuvre : Collaborateur d\'architecte, Assistant d\'ingénieur, ordonnancement, pilotage et coordination de travaux</li>
+            <li>Entreprise : chef d\'entreprise de construction ou de réhabilitation (création ou reprise), chargé d\'affaires (gros œuvre, second oeuvre, maîtrise énergétique et environnementale), conducteur de travaux d\'une entreprise de bâtiment, coordinateur TCE</li></ul</p>]]>
+        </item>
+    </string-array>
+
+    <string-array name="ENR_LP">
+        <item>
+            Énergies Renouvelables (EnR)
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Resp. pédagogique de la licence pro. : Mahmoud Mahouast</p>
+            <p align=\"justify\">Resp. apprentissage : Abdelillah Ouasfi</p>
+            <p align=\"justify\">Formation initiale, formation continue et apprentissage</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">La licence professionnelle EnR forme des responsables de niveau II capables de conduire un projet dans la production, l\'utilisation, la maîtrise, l\'économie et la gestion d\'énergie issue de sources renouvelables.</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\"><ul><li>L2 scientifiques du parcours LMD</li>
+            <li>DUT GTE, GC, GEII, MP, GMP,</li>
+            <li>BTS Fluides - Energies - Environnement,</li>
+            <li>Salariés ou demandeurs d\'emploi relevant de la formation continue pour lesquels la validation d\'acquis est possible.</li></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Métiers de l\'énergie et de l\'environnement dans les secteurs :
+            <ul><li>Chauffage, climatisation, froid,</li>
+            <li>Eolien, hydroélectricité,</li>
+            <li>Solaire thermique et solaire photovoltaïque,</li>
+            <li>Bois-énergie, biogaz, géothermie</li></ul></p>
+
+            <![CDATA[<p align=\"justify\">Exemples : exploitant privé ou communal de site de production d\'énergie, chargé d\'affaires en énergies alternatives, animateur énergie</p>]]>
+        </item>
+    </string-array>
+
+    <string-array name="FVPI_LP">
+        <item>
+            Famille, Vieillissement et Problématiques Intergénérationnelles (FVPI)
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Responsables pédagogiques | Mabrouka Neffati, Florent Puppis<br/>
+            Formation initiale, formation continue, contrat de professionnalisation</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Le professionnel titulaire de la licence professionnelle FVPI doit être en capacité de :
+            <ul><li>Connaître les politiques publiques menées en direction de ces deux publics</li>
+            <li>Connaître les dispositifs publics mis en œuvre</li>
+            <li>Etablir un diagnostic partagé et territorialisé sur les conditions de mise en œuvre de ces dispositifs</li>
+            <li>Proposer une stratégie d\'action adaptée</li>
+            <li>Maîtriser la démarche de méthodologie de projet</li>
+            <li>Concevoir, mettre en œuvre et évaluer des projets</li>
+            <li>Animer et coordonner un réseau d\'acteurs</li>
+            <li>Ecouter, accompagner les publics concernés</li>
+            <li>Conseiller, former orienter les publics concernés</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\"><ul><li>Titulaires d\'un DEUST, DUT, BTS Conseiller en Économie Sociale et Familiale,</li>
+            <li>L2 ou supérieur en Sciences Humaines et Sociales,</li>
+            <li>Salariés ou demandeurs d\'emploi relevant de la formation continue pour lesquels la validation d\'acquis est possible.</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Conseiller en gérontologie, animateur référent-famille, animateur coordinateur en EHPAD, responsable d\'office de retraités, responsable du bénévolat dans une structure à vocation sociale, auprès des personnes vieillissantes et âgées, conseiller social, informateur social, médiateur familial, délégué à la tutelle, coordinateur de projets éducatifs, agent de développement territorial, chargé de prévention, médiateur local.</p>
+            <p align=\"justify\">Le stage permet à chaque étudiant d\'affiner l\'acquisition de compétences spécifiques, en titre avec son projet professionnel.</p>]]>
+        </item>
+    </string-array>
+
+    <string-array name="VEGA_LP">
+        <item>
+            Véhicules : Électronique et Gestion des Automatismes (VEGA)
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Formation initiale, continue et apprentissage | Avenue Maréchal Juin à Belfort</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">La licence professionnelle VEGA a pour but de former des assistants ingénieurs et cadres intermédiaires dans les domaines de l\'électronique embarquée, la mise en œuvre de réseaux multiplexés, le développement de bancs de tests pour organes de véhicules, la maintenance et développement de nouvelles technologies sur les véhicules (électriques et hybrides).</p>
+            <p align=\"justify\">Les diplômés seront capables de gérer des projets et de suivre un dossier afin de définir les besoins en moyens techniques et humains, mais également d\'assurer tout ou partie de la relation commerciale avec le client.</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\"><ul><li>DUT / BTS / L2 en électronique, électrotechnique, maintenance automobile ou industrielle,</li>
+            <li>Salariés ou demandeurs d\'emploi relevant de la formation continue pour lesquels la validation d\'acquis est possible.</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Les secteurs qui recrutent ces techniciens sont les constructeurs et équipementiers automobiles, les acteurs de la filière transports terrestres, routiers, ferroviaires, urbains ou les infrastructures.</p>]]>
+        </item>
+    </string-array>
+
+    <string-array name="TIC_LP">
+        <item>
+            IC Appliquées au Marketing et au Commerce (TICaMaCo)
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Formation initiale, continue et apprentissage | Site Belfort centre</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Cette formation a pour but de former des collaborateurs commerciaux polyvalents maîtrisant les TIC :
+            <ul><li>Conduite de projets,</li>
+            <li>Manipulation et exploitation des bases de données pour réaliser des tableaux de bord,</li>
+            <li>Maîtrise des logiciels de gestion de la relation commerciale,</li>
+            <li>Développement de sites web,</li>
+            <li>Animation de réseaux sociaux.</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\"><ul><li>DUT Tech de Co, GACo, Gestion des Entreprises et des Administrations, Informatique,</li>
+            <li>BTS Management des Unités Commerciales, Négociation et Relation Client, Commerce International, Informatique de Gestion, Assistant PMI/PME,</li>
+            <li>L2 STGI, SJEPG,</li>
+            <li>Salariés ou demandeurs d\'emploi relevant de la formation continue, pour lesquels la validation des acquis est possible.</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Commercialisation de produits liés aux nouvelles technologies (sites internet, logiciels) et tous les secteurs d\'activité tertiaires : assurance, commerce, immobilier, intérim, tourisme, communication commerciale.</p>
+            <p align=\"justify\">Métiers à dominante « marketing » : chargé de clientèle, responsable de la stratégie commerciale, responsable GRC, chef de rayon, attaché commercial, responsable secteur.</p>
+            <p align=\"justify\">Métiers à dominante « TIC » : data mineur, administrateur de sites Web, conseiller en commerce électronique, social media manager, digitals communications coordinator, search engine marketing specialist.</p>]]>
+        </item>
+    </string-array>
+
+    <string-array name="TEPROW_LP">
+        <item>
+            Conception d\'Applications multi-tiers parcours Technologies de Projets Web et Mobiles
+            (TeProw)
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Formation initiale et continue | Site Belfort Techn\'Hom</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Conçue en partenriat avec l\'UFR Sciences à Besançon, la licence professionnelle SIL (Systèmes Informatiques et Logiciels) spécialité Conception d\'Applications Multi-tiers propose deux parcours, dont celui-ci enseigné à l\'IUT de Belfort-Montbéliard.<br/>
+            Le parcours TeProW vise à former des cadres de niveau intermédiaire capables de s\'adapter à l\'évolution des nouvelles technologies de développement d\'applications web et mobiles.</p>
+            <p align=\"justify\">Formés au travail en équipe, les diplômés sauront planifier et piloter un projet réalisé par une équipe de développeurs.</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\"><ul><li>DUT informatique, DUT réseaux et télécommunications,</li>
+            <li>BTS informatique,</li>
+            <li>L2 (120 crédits ECTS) dans le domaine scientifique pouvant justifier de bonnes connaissances en programmation.</li>
+            <li>Salariés ou demandeurs d\'emploi relevant de la formation continue pour lesquels la validation des acquis est possible.</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\"><ul><li>Développement et maintenance d\'applications multi-tiers</li>
+            <li>Développement de serveurs et de clients web</li>
+            <li>Développement d\'applications sur mobiles : Android</li></ul></p>]]>
+        </item>
+    </string-array>
+
+    <string-array name="CIM_LP">
+        <item>
+            Capteurs, Instrumentation, Métrologie (CIM)
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Formation initiale, continue et apprentissage | Montbéliard</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Dans le cadre de la démarche par projets, pour répondre aux exigences des clients et rester performant face à la concurrence, les entreprises du secteur industriel sont amenées à mettre en place de nombreux essais sur les produits qu\'elles fabriquent.</p>
+            <p align=\"justify\">La mise en place de ces essais en phase de développement ou de production est confiée à des techniciens ayant des connaissances scientifiques sûres, spécialisés dans le domaine des techniques instrumentales et des mesures informatisées, formés en métrologie et qualité.</p>
+            <p align=\"justify\">Ils doivent être capables de prendre des responsabilités, faire preuve d\'autonomie dans la conduite des projets, de travailler en équipe et de communiquer.</p>
+            <p align=\"justify\">La licence professionnelle CIM a pour objectif de répondre par une formation de niveau II au besoin des entreprises en apportant une triple compétence dans les domaines de la métrologie qualité, des chaînes de mesures, de la communication et de la gestion de projets.</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\"><ul><li>DUT MP, GMP, GEII, RT, GIM, SGM, GTE, MCQ,</li>
+            <li>BTS industriel (CIRA, IRIS, TPIL)</li>
+            <li>L2 des secteurs sciences, santé, technologie, en particulier mention mécanique et ingénierie, physique chimie, EEA</li>
+            <li>CPGE ayant validé 120 crédits ECTS</li>
+            <li>Salariés de niveau III (DUT ou BTS du secteur industriel) voulant obtenir une qualification de niveau II</li>
+            <li>Salariés ou demandeurs d\'emplois de niveau IV (bac scientifique, bac technologique industriel, bac professionnel industriel) ayant une expérience professionnelle de 3 ans minimum leur permettant de bénéficier d\'une VAE au niveau III.</li></ul></p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Les métiers visés sont dans le secteur secondaire ceux de la mesure, de l\'instrumentation et du contrôle comme par exemple :
+            <li>Technicien/technicienne en mesures physiques</li>
+            <li>Technicien/technicienne responsable qualité</li>
+            <li>Technicien/technicienne responsable de laboratoires de métrologie</li>
+            <li>Cadre technique d\'études recherche développement dans l\'industrie</li>
+            <li>Responsable des mesures et analyses de laboratoires d\'essais</li>
+            <li>Assistant/assistante ingénieur</li>
+            <li>Technico-commercial</li></ul></p>
+            <p align=\"justify\">Au sein des entreprises, les diplômés exerceront des responsabilités d\'encadrement dans les laboratoires, les centres d\'essais, les services mesures-essais, métrologie ou qualité, dans les services recherche-développement ou dans les bureaux d\'études.</p>]]>
+        </item>
+    </string-array>
+
+    <string-array name="CART_LP">
+        <item>
+            Chargé d\'Affaires en Réseaux et Télécommunications (CART)
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Formation initiale, continue et apprentissage<br/>
+            Site des Portes du Jura à Montbéliard</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Ce cursus répond aux besoins des entreprises spécialisées pour commercialiser leurs produits, services ou solutions dans les domaines des réseaux, des télécommunications et de l\'informatique.</p>
+            <p align=\"justify\">La licence ajoute une compétence commerciale à des étudiants bac+2 de la filière technique.</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\"><ul><li>Titulaires de 120 ECTS dans les domaines Informatique, Mathématiques et Applications,</li>
+            <li>DUT GEII, Informatique, RT, SRC,</li>
+            <li>BTS IRIS (Informatique et Réseaux pour l\'Industrie et les Services Techniques), Informatique de gestion option Administrateur réseaux,</li>
+            <li>Salariés (Droit Individuel à la Formation - DIF ou plan de formation d\'entreprise), demandeurs d\'emploi, VAE.</li></ul></p>
+            <p align=\"justify\">Possibilité de suivre la formation en alternance par apprentissage ou en contrat de professionnalisation.</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Compétences
+            <ul><li>Faire de la prospection, établir des devis, effectuer des relances</li>
+            <li>Suivre les réunions de chantier</li>
+            <li>Organiser les approvisionnements, gérer les achats</li>
+            <li>Valider la facture</li>
+            <li>Assurer la responsabilité des affaires traitées ou confiées, dans tous ses aspects techniques, managériaux et commerciaux en étant le garant du résultat financier de son affaire</li></ul></p>
+
+            <p align=\"justify\">Qualités indispensables
+            <ul><li>Etre rigoureux(se),</li>
+            <li>Organisé(e)</li>
+            <li>Sens du relationnel</li></ul></p>
+
+            <![CDATA[<p align=\"justify\">Métiers
+            <ul><li>Chargé d\'affaires, technico-commercial, suivi d\'affaires</li></ul></p>]]>
+        </item>
+    </string-array>
+
+    <string-array name="DORA_LP">
+        <item>
+            Dosimétrie et Radioprotections Médicales (DORA)
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Formation initiale et continue | Montbéliard</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Le spectre des compétences et des activités recherchées pour le « dosimétriste » couvre principalement la dosimétrie clinique du patient effectuée sur ordinateur (TPS) mais aussi la radioprotection du patient et des personnels, la maintenance légère des dispositifs médicaux, la pratique sous la responsabilité du physicien de mesures et de contrôles de qualité des appareils et enfin la gestion des informations diagnostiques et thérapeutiques et leur transmission.</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\"><ul><li>DUT Mesures Physiques, Génie électrique, Génie chimique</li>
+            <li>BTS Manipulateurs d\'électroradiologie,</li>
+            <li>L2 ou 120 ECTS scientifiques</li>
+            <li>Salariés ou demandeurs d\'emploi relevant de la formation continue pour lesquels la validation des acquis est possible</li></ul></p>
+
+            <p align=\"justify\">Des mesures d\'accompagnement et de mises à niveau scientifiques et techniques seront prévues en début de cursus selon les diplômes et les compétences des auditeurs.</p>]]>
+        </item>
+        <item>
+            <![CDATA[<p align=\"justify\">Il y a en France 200 services de radiothérapie employant, suivant la structure de l\'établissement (CHU, CH, Centre de lutte contre le cancer, Clinique privée) de 1 à 3 dosimétristes.</p>
+            <p align=\"justify\">Une enquête récente a mis en évidence des besoins importants en terme de personnels.</p>
+            <p align=\"justify\">La licence DORA propose les débouchés suivants :
+            <ul><li>Dosimétriste dans un service de radiothérapie</li>
+            <li>Technicien spécialisé de la radioprotection en milieu hospitalier</li>
+            <li>Technico-commercial en dosimétrie/radioprotection dans une entreprise</li></ul></p>]]>
+        </item>
+    </string-array>
+
+    <string-array name="DUTBelfort">
+        <item>Belfort</item>
+        <item>Animation Sociale et Socio-culturelle (ASS)</item>
+        <item>Gestion Urbaine (GU)</item>
+        <item>Services à la Personne (SaP)</item>
+        <item>Génie Civil - Construction Durable (G2CD)</item>
+        <item>Génie Electrique et Informatique Industrielle (GEII)</item>
+        <item>Génie Thermique et Energie (GTE)</item>
+        <item>Informatique (Info)</item>
+        <item>Techniques de Commercialisation (Tech. de Co.)</item>
+    </string-array>
+
+    <string-array name="DUTMontbelliard">
+        <item>Montbelliard</item>
+        <item>Gestion Administrative et Commerciale des Organisations (GACO)</item>
+        <item>Mesures Physiques (MP)</item>
+        <item>Réseaux et Télécommunications (RT)</item>
+        <item>Métiers du Multimédia et de l\'Internet (MMI)</item>
+    </string-array>
+
+    <string-array name="LPBelfort">
+        <item>Belfort</item>
+        <item>Animation Sociale et Socio-culturelle (ASS)</item>
+        <item>Conduite de Travaux et Performance Energétique des Bâtiments (CTPEB)</item>
+        <item>Énergies Renouvelables (EnR)</item>
+        <item>Famille, Vieillissement et Problématiques Intergénérationnelles (FVPI)</item>
+        <item>Véhicules : Électronique et Gestion des Automatismes (VEGA)</item>
+        <item>IC Appliquées au Marketing et au Commerce (TICaMaCo)</item>
+        <item>Conception d\'Applications multi-tiers parcours Technologies de Projets Web et Mobiles
+            (TeProw)
+        </item>
+    </string-array>
+
+    <string-array name="LPMontbelliard">
+        <item>Montbelliard</item>
+        <item>Attaché au Développement International des Organisations (ADIO)</item>
+        <item>Capteurs, Instrumentation, Métrologie (CIM)</item>
+        <item>Chargé d\'Affaires en Réseaux et Télécommunications (CART)</item>
+        <item>Dosimétrie et Radioprotections Médicales (DORA)</item>
+        <item>Marketing et communication des Organisations du Spectacle, de l\'Événementiel et des
+            Loisirs (MOSEL)
+        </item>
+        <item>Webdesign (Wd)</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Guide</string>
+
+    <string name="desc_list_item_icon">Item Icon</string>
+
+    <string formatted="false" name="eco_part1_para1">« Eco-campus 2020 » est un projet ambitieux de réhabilitation écologique du  site de l’IUT. Il porte de nouvelles perspectives pour l’enseignement, la recherche et le développement du territoire.</string>
+    <string formatted="false" name="eco_part1_para2">A Belfort, les bâtiments de l’IUT situés sur le Techn’hom ont grand besoin d’être rénovés. Ils datent, pour la plupart, des années 1970 et ne sont plus conformes aux normes actuelles de consommation énergétique et d’accessibilité. Le coût de leur maintenance ne cesse de croître.</string>
+    <string formatted="false" name="eco_part1_para3">Le projet « Eco-campus 2020 » prévoit une rénovation complète de ces locaux selon des critères écologiques. Il s’agit d’un chantier expérimental pilote qui pourrait, à terme, servir de modèle à d’autres campus.</string>
+    <string formatted="false" name="eco_part1_para4">L’idée est de tester des solutions novatrices de réhabilitation des bâtiments en utilisant les compétences de l’industrie locale, mais aussi celles de l’Université. Belfort concentre en effet un certain nombre de formations et de travaux de recherche orientés vers l’énergie et le génie civil. Les étudiants, enseignants et chercheurs vont donc pouvoir participer à l’élaboration des solutions et à leur expérimentation grandeur nature.</string>
+    <string formatted="false" name="eco_part1_para5">Certains bâtiments du campus vont être détruits, d’autres construits, mais il s’agira surtout de modifier les locaux existants grâce à des procédés adaptés à chaque cas. On peut donc imaginer utiliser par exemple la cogénération ou des systèmes « pile à combustible », deux procédés auxquels les chercheurs du Nord Franche-Comté s’intéressent de près.</string>
+    <string formatted="false" name="eco_part1_para6">L’IUT de Belfort-Montbéliard n’est pas le seul établissement concerné par ce projet. L’UFR STGI  et l’institut FEMTO-ST sont également impliqués.</string>
+    <string formatted="false" name="eco_part2_para1">Une réorganisation de l’ensemble des sites universitaires belfortains est prévue pour établir une cohérence en rassemblant des filières actuellement dispersées au sein de trois campus thématiques. Toutes les formations liées au commerce, au droit et à la gestion administrative seront accueillies en centre-ville, dans le bâtiment Louis Néel qui a été récemment rénové et agrandi. Les locaux situés Faubourg des ancêtres accueilleront le département Carrières sociales de l’IUT. L’ESPE étant également localisé dans ce périmètre, l’ensemble formera un campus dédié aux métiers de l’éducation et de l’animation.</string>
+    <string formatted="false" name="eco_part2_para2">L’actuel site de l’IUT de Belfort sur le Techn’hom, où se trouvent déjà de grandes entreprises du secteur de l’énergie, notamment General Electric et Alstom, le FC Lab et l’UTBM, deviendra un campus scientifique à part entière. Le département sciences de l’UFR STGI et le département ENERGIE de l’institut FEMTO-ST y rejoindront les départements scientifiques et techniques de l’IUT et le département d’Informatique des systèmes complexes déjà présent dans ces locaux. Cette nouvelle implantation favorisera les échanges entre formation et recherche tout en intéressant le plus tôt possible les étudiants aux travaux portés par les laboratoires. « Ceux qui ne se destinent pas à une carrière académique y découvriront la technologie et l’innovation » souligne Nicolas Chaillet. Cela permettra également de mutualiser les plateaux techniques actuellement dupliqués. « Les équipements seront ainsi renouvelés plus souvent afin que les étudiants disposent en permanence de matériel de pointe », note Cyrille Verna, directeur de l’UFR STGI.</string>
+    <string formatted="false" name="eco_part3_para1">Ces rapprochements vont induire de nouveaux échanges. Les étudiants de filières différentes pourront suivre des modules d’enseignements transversaux sur des thématiques liées au développement durable. Un nouveau cursus de master en ingénierie (CMI) intitulé H3E (Hydrogène, Energie, efficacité énergétique), élaboré de manière conjointe par l’IUT et l’UFR STGI et accessible aux étudiants de ces deux composantes, verra le jour à la rentrée prochaine. « En créant davantage de passerelles entre les cursus professionnels et académiques, nous allons favoriser la réussite des étudiants » affirme Olivier Prévôt, directeur de l’IUT de Belfort-Montbéliard.</string>
+    <string formatted="false" name="eco_part3_para2">La construction de l’éco-campus devrait débuter en 2015 et s’achever en 2020. Il intéresse d’ores et déjà de nombreux partenaires parmi lesquels : les collectivités locales, la Caisse des dépôts, ERDF et les entreprises de la Vallée de l’énergie.</string>
+    <string formatted="false" name="eco_part3_para3">Cette nouvelle vitrine écologique et scientifique pourrait avoir un impact notable sur le développement du territoire.</string>
+    <string formatted="false" name="choisir_part1">Etudier à l’IUT, c’est choisir de suivre une formation universitaire technologique professionnelle : enseignements théoriques alternent avec pratiques et expériences de terrain permettant à chacun d’améliorer ses connaissances et ses compétences.</string>
+    <string formatted="false" name="choisir_part2_para1">Le projet personnel et professionnel de l’étudiant l’accompagne dans la découverte du monde du travail à partir de ses motivations, ses expériences et d’une meilleure connaissance de soi.</string>
+    <string formatted="false" name="choisir_part2_para2">Les projets tuteurés permettent de développer l’autonomie dans la gestion et l’acquisition des méthodes de travail, dans un cadre individuel ou collectif.</string>
+    <string formatted="false" name="choisir_part2_para3">Les stages en entreprise, de 10 à 14 semaines selon les départements de formation, se déroulent au cours du 4 semestre et débouchent dans 15% des cas sur un emploi. </string>
+    <string formatted="false" name="choisir_part3">Les professionnels contribuent à l’enseignement et à la formation. En DUT, au moins 20% des enseignements sont assurés par des professionnels (25% en licence professionnelle).</string>
+    <string formatted="false" name="choisir_part4">Formation continue, VAE, apprentissage, contrat de professionnalisation... L’IUT de Belfort-Montbéliard ouvre ses formations à des publics variés et leur propose des diplômes nationaux, soit pour faire évoluer leurs carrières, soit pour une meilleure insertion dans la vie active.</string>
+    <string formatted="false" name="choisir_part5">L’IUT de Belfort-Montbéliard offre à ses étudiants la possibilité d’effectuer des stages ou un semestre d’études à l’étranger, une expérience qui constitue un atout supplémentaire pour l’insertion professionnelle des diplômés. L’établissement accueille également des étudiants venus du monde entier.</string>
+    <string formatted="false" name="dut_part1_para1">Le Diplôme Universitaire de Technologie (DUT) se prépare en quatre semestres et propose un enseignement pratique et très spécialisé, avec un fort encadrement permettant d’être opérationnel en entreprise.</string>
+    <string formatted="false" name="dut_part1_para2">Les formations ont été développées en partenariat avec les entreprises et les milieux professionnels qui participent activement à l\'élaboration des programmes, aux enseignements et aux jurys.</string>
+    <string formatted="false" name="dut_part1_para3">A l’issue de leur formation, les titulaires d’un DUT peuvent s’engager dans la vie active ou poursuivre des études :</string>
+    <string formatted="false" name="lp_part1_para1">Créées en partenariat avec les entreprises, les licences professionnelles sont des diplômes de niveau Bac+3, une opportunité pour les titulaires de BTS, DUT, DEUG (ou 120 ECTS) désireux de se spécialiser ou de compléter leur formation. </string>
+    <string formatted="false" name="lp_part1_para2">Ce sont des formations reconnues par les milieux professionnels car conçues en partenariat avec eux : elles permettent donc une insertion rapide dans le monde du travail. Toutefois, des poursuites d’études sont possibles, notamment en masters professionnels.</string>
+
+
+    <string name="crash_notif_ticker_text">Erreur inatendue, un rapport doit etre envoyé...</string>
+
+    <string name="crash_notif_title">Le crashTest a crashé...</string>
+    <string name="crash_notif_text">Veuillez cliquer pour continuer</string>
+
+    <string name="crash_dialog_title">Le crashTest a crashé...</string>
+    <string name="crash_dialog_text">Une erreur inatenue a provoqué l\'arret de l\'application, veuillez nous en excuser et un simple clic sur \'OK\' pourrait regler le probleme =) .</string>
+    <string name="crash_dialog_comment_prompt">Vous pouvez ajouter des commentaires ici :</string>
+    <string name="crash_dialog_ok_toast">Merci !</string>
+    <string name="crash_toast_text">Ooooops ! J\'ai crash\é, mais un rapport a été envoy\é à mon dev pour regler le prob !</string>
+
+    <string name="message_dialog_accueil">Bienvenue sur l\'application de l\'IUT de Belfort-Montbelliard\n\nAfin de vous aider à prendre en main cette application, des aides vous seront affichées.\nPour désactiver ces aides, il vous suffit de désactiver l\'option \"Guide\" dans le menu \"Paramètres\".\n\nPour naviguer entre les différentes sections cette application utilise un menu que vous pouvez ouvrir à tout moment en cliquant simplement sur le logo de l\'application en haut à gauche de l\'écran ou en effectuant un slide du bord gauche de l\'écran vers la droite.\n\nCliquez sur le bouton \"Retour\" ou en dehors de cette fenètre pour qu\'elle se ferme.</string>
+
+    <string name="plan_part1"><![CDATA[<p align=\"justify\">A l\’IUT de Belfort-Montbéliard, les formations sont réparties sur trois sites : deux à Belfort et un à Montbéliard.</p>
+<p align=\"justify\">Cette répartition trouve son origine dans l\’histoire de l\’établissement : en 1969, les premiers départements s\’ouvrent à Belfort rue Engel Gros, à proximité des grandes entreprises industrielles locales (ALSTOM, GE...).</p>
+<p align=\"justify\">En 1991, le campus des Portes du Jura voit le jour et c\’est tout naturellement que l\’IUT y implante quatre de ses formations, au côté d\’autres composantes de l\’Université de Franche-Comté.</p>
+<p align=\"justify\">Aujourd’hui, l\’administration centrale avec les services communs (accueil, comptabilité, communication, services généraux…) se situe avenue Maréchal Juin à Belfort. Chaque département de formation dispose de locaux spécifiques (salles de cours, laboratoires, ateliers…) clairement identifiés et d\’un secrétariat, en charge de la gestion des étudiants.</p>]]></string>
+
+    <string name="acces_belfort"><![CDATA[<p align=\"justify\">En voiture | Par A36, sortie 13 Belfort Nord Les Glacis, direction Techn\’Hom<br/>
+En train | Gare de Belfort en centre ville, gare TGV à 20 mn (navette de bus)<br/>
+En bus | Depuis la gare, ligne 3 dir. Valdoie arrêt IUT ou depuis la vieille ville, ligne 2 dir. Cravanche arrêt Sainte Thérèse</p>]]></string>
+
+    <string name="acces_belfort_centre"><![CDATA[<p align=\"justify\">En voiture | Par A36, sortie 13 Belfort Nord Les Glacis, direction centre ville<br/>
+En train | Gare de Belfort en centre ville, Gare TGV à 20 mn (navette de bus)<br/>
+A pied | Depuis la gare, descendre le faubourg de France puis à gauche le faubourg des ancêtres<br/>
+En bus | Depuis le site Belfort Techn\'hom, ligne 2 arrêt Rabin</p>]]></string>
+
+    <string name="acces_montbe"><![CDATA[<p align=\"justify\">En voiture | par A36, sortie 8 Montbéliard centre, direction Numérica puis Portes du Jura<br/>
+En train | Gare de Montbéliard en centre ville, gare TGV à 20 mn (navette de bus)<br/>
+En bus | Ligne 1 dir. Valentigney ou 4 dir. Étupes, arrêt Montbéliard Campus</p>]]></string>
+</resources>

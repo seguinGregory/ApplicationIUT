@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:gravity="center_vertical|center_horizontal"
+    android:background="#007497">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:gravity="center_vertical|center_horizontal">
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="30dp"
+            android:text="Choisir l'IUT"
+            android:id="@+id/buttonInscription"
+            android:textColor="@android:color/white"
+            android:background="@drawable/footer_bg_formation"
+            android:textStyle="bold"
+            android:height="@android:dimen/notification_large_icon_height" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="30dp"
+            android:text="DUT"
+            android:id="@+id/buttonDUT"
+            android:textColor="@android:color/white"
+            android:background="@drawable/footer_bg_formation"
+            android:textStyle="bold"
+            android:height="@android:dimen/notification_large_icon_height" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="30dp"
+            android:text="Licence professionnelle"
+            android:id="@+id/buttonLP"
+            android:singleLine="false"
+            android:textColor="@android:color/white"
+            android:background="@drawable/footer_bg_formation"
+            android:textStyle="bold"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:height="@android:dimen/notification_large_icon_height" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="30dp"
+            android:text="Plan"
+            android:id="@+id/buttonPLAN"
+            android:singleLine="false"
+            android:textColor="@android:color/white"
+            android:background="@drawable/footer_bg_formation"
+            android:textStyle="bold"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:height="@android:dimen/notification_large_icon_height" />
+    </LinearLayout>
+
+</RelativeLayout>

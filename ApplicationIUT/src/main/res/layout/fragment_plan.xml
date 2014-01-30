@@ -1,0 +1,165 @@
+<RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView" >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#F1E7C4">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Sites de formation"
+                android:id="@+id/textView"
+                android:padding="10dp"
+                android:textColor="@android:color/white"
+                android:background="#971354" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView"
+                android:src="@drawable/separator" />
+
+            <WebView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/webViewPlanPart1" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView2"
+                android:src="@drawable/separator" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="BELFORT Techn'hom | Avenue Maréchal Juin"
+                android:id="@+id/textView2"
+                android:padding="10dp"
+                android:textColor="@android:color/white"
+                android:background="#971354" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView3"
+                android:src="@drawable/separator" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageViewPlanBelfort"
+                android:src="@drawable/planbelfort3"
+                android:scaleType="centerCrop" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView4"
+                android:src="@drawable/separator" />
+
+            <WebView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/webViewAccesBelfort1" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView5"
+                android:src="@drawable/separator" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="BELFORT centre | Faubourg des Ancêtres "
+                android:id="@+id/textView3"
+                android:padding="10dp"
+                android:textColor="@android:color/white"
+                android:background="#971354" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView6"
+                android:src="@drawable/separator" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageViewPlanBelfortCentre"
+                android:scaleType="centerCrop"
+                android:src="@drawable/planbelfort3" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView8"
+                android:src="@drawable/separator" />
+
+            <WebView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/webViewAccesBelfort2" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView9"
+                android:src="@drawable/separator" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="MONTBÉLIARD | Campus des Portes du Jura"
+                android:id="@+id/textView4"
+                android:padding="10dp"
+                android:textColor="@android:color/white"
+                android:background="#971354" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView7"
+                android:src="@drawable/separator" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageViewPlanMontbe"
+                android:scaleType="centerCrop"
+                android:src="@drawable/planbelfort3" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView11"
+                android:src="@drawable/separator" />
+
+            <WebView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/webViewAccesMontbe" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView12"
+                android:src="@drawable/separator" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

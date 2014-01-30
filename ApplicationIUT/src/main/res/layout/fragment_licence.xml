@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:gravity="center_vertical|center_horizontal">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/scrollView"
+        android:background="#F1E7C4" >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Licence professionnelle"
+                android:id="@+id/textView"
+                android:padding="10dp"
+                android:textColor="@android:color/white"
+                android:background="#971354"
+                android:gravity="center_horizontal" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView"
+                android:src="@drawable/separator" />
+
+            <WebView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/webViewLPPart1" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView2"
+                android:src="@drawable/separator" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Formations"
+                android:id="@+id/textView8"
+                android:padding="10dp"
+                android:textColor="@android:color/white"
+                android:background="#971354" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView3"
+                android:src="@drawable/separator" />
+
+            <Spinner
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/spinnerBelfort"
+                android:textColor="@android:color/white"
+                android:background="#971354"
+                android:layout_margin="10dp"
+                android:spinnerMode="dialog"
+                android:paddingLeft="20dp" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView4"
+                android:src="@drawable/separator" />
+
+            <Spinner
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/spinnerMontbelliard"
+                android:paddingLeft="20dp"
+                android:textColor="@android:color/white"
+                android:background="#971354"
+                android:layout_margin="10dp"
+                android:spinnerMode="dialog" />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

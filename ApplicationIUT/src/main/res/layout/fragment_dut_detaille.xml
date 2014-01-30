@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:gravity="center_vertical|center_horizontal">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/scrollView" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:background="#F1E7C4">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Intitule formation"
+                android:id="@+id/textViewIntituleDUT"
+                android:padding="10dp"
+                android:textColor="@android:color/white"
+                android:background="#971354" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView"
+                android:src="@drawable/separator" />
+
+            <WebView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/webViewCaracDUT" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView2"
+                android:src="@drawable/separator" />
+
+            <WebView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/webViewPresentationDUT" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView3"
+                android:src="@drawable/separator" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Publics"
+                android:id="@+id/textView"
+                android:padding="10dp"
+                android:textColor="@android:color/white"
+                android:background="#971354" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView4"
+                android:src="@drawable/separator" />
+
+            <WebView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/webViewPublicDUT" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView5"
+                android:src="@drawable/separator" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Insertion professionnelle"
+                android:id="@+id/textView2"
+                android:padding="10dp"
+                android:textColor="@android:color/white"
+                android:background="#971354" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView6"
+                android:src="@drawable/separator" />
+
+            <WebView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/webViewInsertionDUT" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView7"
+                android:src="@drawable/separator" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Poursuite d'études"
+                android:id="@+id/textView3"
+                android:padding="10dp"
+                android:textColor="@android:color/white"
+                android:background="#971354" />
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView8"
+                android:src="@drawable/separator" />
+
+            <WebView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/webViewPoursuiteDUT" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

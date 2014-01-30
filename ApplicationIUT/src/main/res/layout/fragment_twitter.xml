@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#F1E7C4">
+
+    <com.iutbm.applicationiut.PullToRefreshListView
+        android:layout_height="fill_parent"
+        android:layout_width="fill_parent"
+        android:id="@+id/listViewTweet"
+        android:dividerHeight="12dp"
+        android:divider="#F1E7C4"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp" />
+
+</LinearLayout>

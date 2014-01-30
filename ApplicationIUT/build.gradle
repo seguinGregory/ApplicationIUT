@@ -1,0 +1,30 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:0.7.+'
+    }
+}
+apply plugin: 'android'
+
+repositories {
+    mavenCentral()
+}
+
+android {
+    compileSdkVersion 15
+    buildToolsVersion '18.1.1'
+
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 15
+    }
+}
+
+dependencies {
+    compile files('libs/jsoup-1.7.3.jar')
+    compile 'com.android.support:support-v4:+'
+    compile files('libs/joda-time-2.3.jar')
+    compile files('libs/bugsense-3.6.jar')
+}

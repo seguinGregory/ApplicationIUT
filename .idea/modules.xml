@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ApplicationIUT/ApplicationIUT.iml" filepath="$PROJECT_DIR$/ApplicationIUT/ApplicationIUT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ApplicationIUTProject.iml" filepath="$PROJECT_DIR$/ApplicationIUTProject.iml" />
+    </modules>
+  </component>
+</project>
+
