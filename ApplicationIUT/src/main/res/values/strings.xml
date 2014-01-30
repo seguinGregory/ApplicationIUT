@@ -808,12 +808,12 @@
 
     <string name="message_dialog_accueil">Bienvenue sur l\'application de l\'IUT de Belfort-Montbelliard\n\nAfin de vous aider à prendre en main cette application, des aides vous seront affichées.\nPour désactiver ces aides, il vous suffit de désactiver l\'option \"Guide\" dans le menu \"Paramètres\".\n\nPour naviguer entre les différentes sections cette application utilise un menu que vous pouvez ouvrir à tout moment en cliquant simplement sur le logo de l\'application en haut à gauche de l\'écran ou en effectuant un slide du bord gauche de l\'écran vers la droite.\n\nCliquez sur le bouton \"Retour\" ou en dehors de cette fenètre pour qu\'elle se ferme.</string>
 
-    <string name="plan_part1"><![CDATA[<p align=\"justify\">A l\’IUT de Belfort-Montbéliard, les formations sont réparties sur trois sites : deux à Belfort et un à Montbéliard.</p>
-<p align=\"justify\">Cette répartition trouve son origine dans l\’histoire de l\’établissement : en 1969, les premiers départements s\’ouvrent à Belfort rue Engel Gros, à proximité des grandes entreprises industrielles locales (ALSTOM, GE...).</p>
-<p align=\"justify\">En 1991, le campus des Portes du Jura voit le jour et c\’est tout naturellement que l\’IUT y implante quatre de ses formations, au côté d\’autres composantes de l\’Université de Franche-Comté.</p>
-<p align=\"justify\">Aujourd’hui, l\’administration centrale avec les services communs (accueil, comptabilité, communication, services généraux…) se situe avenue Maréchal Juin à Belfort. Chaque département de formation dispose de locaux spécifiques (salles de cours, laboratoires, ateliers…) clairement identifiés et d\’un secrétariat, en charge de la gestion des étudiants.</p>]]></string>
+    <string name="plan_part1"><![CDATA[<p align=\"justify\">A l\'IUT de Belfort-Montbéliard, les formations sont réparties sur trois sites : deux à Belfort et un à Montbéliard.</p>
+<p align=\"justify\">Cette répartition trouve son origine dans l\’histoire de l\'établissement : en 1969, les premiers départements s\'ouvrent à Belfort rue Engel Gros, à proximité des grandes entreprises industrielles locales (ALSTOM, GE...).</p>
+<p align=\"justify\">En 1991, le campus des Portes du Jura voit le jour et c\'est tout naturellement que l\'IUT y implante quatre de ses formations, au côté d\'autres composantes de l\'Université de Franche-Comté.</p>
+<p align=\"justify\">Aujourd’hui, l\'administration centrale avec les services communs (accueil, comptabilité, communication, services généraux…) se situe avenue Maréchal Juin à Belfort. Chaque département de formation dispose de locaux spécifiques (salles de cours, laboratoires, ateliers…) clairement identifiés et d\'un secrétariat, en charge de la gestion des étudiants.</p>]]></string>
 
-    <string name="acces_belfort"><![CDATA[<p align=\"justify\">En voiture | Par A36, sortie 13 Belfort Nord Les Glacis, direction Techn\’Hom<br/>
+    <string name="acces_belfort"><![CDATA[<p align=\"justify\">En voiture | Par A36, sortie 13 Belfort Nord Les Glacis, direction Techn\'Hom<br/>
 En train | Gare de Belfort en centre ville, gare TGV à 20 mn (navette de bus)<br/>
 En bus | Depuis la gare, ligne 3 dir. Valdoie arrêt IUT ou depuis la vieille ville, ligne 2 dir. Cravanche arrêt Sainte Thérèse</p>]]></string>
 
