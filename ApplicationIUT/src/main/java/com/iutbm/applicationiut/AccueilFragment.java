@@ -7,7 +7,6 @@ import android.content.Intent;
 import android.graphics.Typeface;
 import android.net.Uri;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -34,7 +33,6 @@ public class AccueilFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_accueil, container, false);
         vanish = AnimationUtils.loadAnimation(this.getActivity(), R.anim.vanish);
-
         buttonActualites = (Button) view.findViewById(R.id.buttonActualites);
         buttonFormations = (Button) view.findViewById(R.id.buttonFormations);
         buttonEcoCampus = (Button) view.findViewById(R.id.buttonEcoCampus);

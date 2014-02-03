@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ApplicationIUT/ApplicationIUT.iml" filepath="$PROJECT_DIR$/ApplicationIUT/ApplicationIUT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ApplicationIUT-Git.iml" filepath="$PROJECT_DIR$/ApplicationIUT-Git.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ApplicationIUTProject.iml" filepath="$PROJECT_DIR$/ApplicationIUTProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ApplicationIUT.iml" filepath="$PROJECT_DIR$/ApplicationIUT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ApplicationIUT/ApplicationIUT-ApplicationIUT.iml" filepath="$PROJECT_DIR$/ApplicationIUT/ApplicationIUT-ApplicationIUT.iml" />
     </modules>
   </component>
 </project>

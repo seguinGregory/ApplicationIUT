@@ -1,17 +1,12 @@
 package com.iutbm.applicationiut;
 
 import android.app.Fragment;
-import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.webkit.WebView;
-import android.widget.ImageView;
-import android.widget.LinearLayout;
-import android.widget.TextView;
-import android.widget.Toast;
+
 
 /**
  * Created by Greg on 10/11/13.

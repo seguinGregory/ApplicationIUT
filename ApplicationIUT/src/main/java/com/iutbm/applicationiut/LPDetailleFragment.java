@@ -5,7 +5,6 @@ import android.content.Intent;
 import android.graphics.Color;
 import android.net.Uri;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -115,7 +114,7 @@ public class LPDetailleFragment extends Fragment {
                 @Override
                 public void run() {
                     startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.youtube.com/watch?feature=player_embedded&v=sFWr4L1jSHc")));
-                    Log.i("Video", "Video Playing....");
+                    //Log.i("Video", "Video Playing....");
                 }
             }, vanish.getDuration());
         }
